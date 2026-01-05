@@ -55,11 +55,12 @@ The project demonstrates the use of basic Python programming concepts.
 ---
 
 ## Output Screenshots
-<img width="1599" height="729" alt="Screenshot 2026-01-04 191128" src="https://github.com/user-attachments/assets/9a058df3-5cc0-4453-b542-0ce29f97ebe6" />
-<img width="1590" height="752" alt="Screenshot 2026-01-04 191040" src="https://github.com/user-attachments/assets/4912334c-f338-4948-a9b2-816034536e3a" />
-<img width="1596" height="689" alt="Screenshot 2026-01-04 190959" src="https://github.com/user-attachments/assets/342f62fc-9c01-4dda-abf1-7f1f19855361" />
-<img width="1586" height="668" alt="Screenshot 2026-01-04 190906" src="https://github.com/user-attachments/assets/7ebcfcad-a1a5-4f1f-8cd3-559975a0f021" />
-<img width="1583" height="726" alt="Screenshot 2026-01-04 190814" src="https://github.com/user-attachments/assets/487a8784-17e4-4f39-a50b-2be89023041d" />
-<img width="1580" height="724" alt="Screenshot 2026-01-04 190725" src="https://github.com/user-attachments/assets/9da918c3-6649-4950-b689-843153765890" />
-<img width="1585" height="698" alt="Screenshot 2026-01-04 190621" src="https://github.com/user-attachments/assets/6ac2979a-b666-4de3-aba4-320da0899213" />
+<img width="1599" height="729" alt="Screenshot 2026-01-04 191128" src="https://github.com/user-attachments/assets/7b41155a-91ac-438d-a4d6-c0884e15ebc7" />
+<img width="1590" height="752" alt="Screenshot 2026-01-04 191040" src="https://github.com/user-attachments/assets/09d0d143-7e5e-4f81-8a40-1496dcf77b59" />
+<img width="1596" height="689" alt="Screenshot 2026-01-04 190959" src="https://github.com/user-attachments/assets/a6e460c9-5712-4e0b-af7e-248f6611d0ba" />
+<img width="1586" height="668" alt="Screenshot 2026-01-04 190906" src="https://github.com/user-attachments/assets/6eef0cb0-2a75-4abc-a150-fbea7e094c62" />
+<img width="1583" height="726" alt="Screenshot 2026-01-04 190814" src="https://github.com/user-attachments/assets/8ba09417-5b4b-4f0a-88f8-41d8a07b9051" />
+<img width="1580" height="724" alt="Screenshot 2026-01-04 190725" src="https://github.com/user-attachments/assets/d7b9d47d-b45b-4d6b-9c75-7147621ed9d7" />
+<img width="1585" height="698" alt="Screenshot 2026-01-04 190621" src="https://github.com/user-attachments/assets/b3acdde5-5e3b-40b8-a0ea-2bb6502cb65e" />
+
 
